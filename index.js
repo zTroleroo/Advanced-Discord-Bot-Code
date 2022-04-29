@@ -183,4 +183,4 @@ client.on("guildMemberAdd", async member => {
 
 //--------Login-via-Token-----------------
 
-client.login(process.env.TOKEN);
+client.login("TOKEN HERE");
